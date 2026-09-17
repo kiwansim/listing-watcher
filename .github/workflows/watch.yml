@@ -1,3 +1,4 @@
+# Polls tracked marketplace searches on a schedule.
 name: Watch listings
 
 on:
