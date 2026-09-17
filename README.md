@@ -1,4 +1,4 @@
-# poshmark-watcher
+# listing-watcher
 
 Polls one or more marketplace searches and emails you when a new listing shows up.
 
